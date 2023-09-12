@@ -1,5 +1,8 @@
-public class App {
+import view.view;
+
+public class run {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        view obj = new view();
+        
     }
 }
